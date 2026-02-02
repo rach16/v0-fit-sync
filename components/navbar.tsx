@@ -38,7 +38,7 @@ export function Navbar() {
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-2 text-white">
           <Dumbbell className="h-6 w-6" />
-          <span className="text-xl font-bold">FitSync</span>
+          <span className="text-xl font-bold">Rach_Banik_FitSync</span>
         </div>
 
         <nav className="hidden md:flex items-center gap-6">

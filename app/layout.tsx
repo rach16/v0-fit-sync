@@ -11,7 +11,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "FitSync - Track Your Fitness Journey",
+  title: "FitSync - Track Rachana's Fitness Journey",
   description: "Track your workouts and nutrition in one place",
     generator: 'v0.dev'
 }
